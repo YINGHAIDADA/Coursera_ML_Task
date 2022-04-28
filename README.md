@@ -1,4 +1,6 @@
 # Coursera_ML_Exercise
+![吴恩达](https://cdn.jsdelivr.net/gh/YINGHAIDADA/imageStorege@main/image/1651160963305-2022-4-2823:49:23.png)  
+
 吴恩达机器学习公开课资源中文版本以及Python实现作业
 
 ## 关于作业实现以及资源来源
